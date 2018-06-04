@@ -1,3 +1,7 @@
+
+Forked from  StevenBlack/hosts intended for a nodejs port to fit better with certain workflows
+
+
 ![readme](https://user-images.githubusercontent.com/36028424/40330477-9df2c2e0-5d7f-11e8-8ac8-511d719a5eae.png)
 
 [![latest release](https://img.shields.io/github/release/StevenBlack/hosts.svg)](https://github.com/StevenBlack/hosts/releases)
